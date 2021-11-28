@@ -1,0 +1,8 @@
+home_assistant:
+  8123
+  
+portainer:
+  9001
+
+home_bridge:
+  9000
