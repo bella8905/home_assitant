@@ -6,3 +6,5 @@ portainer:
 
 home_bridge:
   9000
+  admin
+  admin
