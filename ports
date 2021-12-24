@@ -3,6 +3,8 @@ home_assistant:
   
 portainer:
   9001
+  admin
+  lulu
 
 home_bridge:
   9000
