@@ -1,0 +1,6 @@
+zigbee2mqtt
+- sonoff usb dongle 3.0 plus flash
+  https://github.com/JelmerT/cc2538-bsl
+  use it on mac, windows doesn't recognize the device
+- can't add new device, interference!
+  https://www.zigbee2mqtt.io/guide/faq/
